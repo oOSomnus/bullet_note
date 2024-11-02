@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb652a91-563a-48b8-b3e5-331232899a11" name="Changes" comment="" />
+    <list default="true" id="bb652a91-563a-48b8-b3e5-331232899a11" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/bullet_note-start/src/main/java/han/z/gateway/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/bullet_note-start/src/main/java/han/z/gateway/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/bullet_note-start/src/main/java/han/z/gateway/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/bullet_note-start/src/main/java/han/z/gateway/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/bullet_note-start/src/main/java/han/z/gateway/model/AuthenticationRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/bullet_note-start/src/main/java/han/z/gateway/model/AuthenticationRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/bullet_note-start/src/main/java/han/z/gateway/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/bullet_note-start/src/main/java/han/z/gateway/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/bullet_note-start/src/main/java/han/z/gateway/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/bullet_note-start/src/main/java/han/z/gateway/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/bullet_note-start/src/main/resources/mybatis/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/bullet_note-start/src/main/resources/mybatis/mapper/UserMapper.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,15 +32,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
   <component name="OptimizeOnSaveOptions">
     <option name="myRunOnSave" value="true" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2oHH3uL0VtoUZxVIYjX0Z8CfLat" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -55,8 +68,13 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "rearrange.code.on.save": "true",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
+    "settings.editor.selected.configurable": "terminal",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -75,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716310016981</updated>
-      <workItem from="1730519386111" duration="2734000" />
+      <workItem from="1730519386111" duration="5816000" />
     </task>
     <servers />
   </component>

@@ -5,15 +5,10 @@
 
 <mapper namespace="com.example.gateway.mapper.UserMapper">
 
-    <resultMap id="userResultMap" type="han.z.gateway.mapper.UserMapper">
-        <id column="username" property="username"/>
-        <result column="password" property="password"/>
-        <result column="roles" property="roles"/>
-    </resultMap>
+    <!--    <resultMap id="userResultMap" type="han.z.gateway.mapper.UserMapper">-->
+    <!--        <id column="username" property="username"/>-->
+    <!--        <result column="password" property="password"/>-->
+    <!--        <result column="roles" property="roles"/>-->
+    <!--    </resultMap>-->
 
-    <select id="findByUsername" resultMap="userResultMap">
-        SELECT username, password, roles
-        FROM users
-        WHERE username = #{username}
-    </select>
 </mapper>
